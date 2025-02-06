@@ -13,7 +13,7 @@ React Movie App is a web application that utilizes the IMDB API to display movie
 ## 🚀 Install
 
 ```
-git clone https://github.com/abela12/react-movie-gallery.git
+git clone https://github.com/inyambeGoodness/Webstack---Portfolio-Project.git
 ```
 
 ```

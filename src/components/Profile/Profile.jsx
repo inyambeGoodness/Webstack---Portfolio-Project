@@ -8,6 +8,7 @@ import { userSelector } from '../../features/auth';
 
 const Profile = () => {
   const { user } = useSelector(userSelector);
+  // eslint-disable-next-line
   console.log(user);
   const favouriteMovies = [];
 
